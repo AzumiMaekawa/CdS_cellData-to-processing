@@ -9,7 +9,7 @@
 #ifndef Layer_hpp
 #define Layer_hpp
 #define Num 2000
-#define Speed 8
+#define Speed 7
 
 #include <stdio.h>
 #include <ofMain.h>
